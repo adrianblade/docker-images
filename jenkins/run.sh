@@ -1,0 +1,1 @@
+docker build -f jenkins -t "jenkins:1" .
